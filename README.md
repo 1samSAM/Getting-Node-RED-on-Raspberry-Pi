@@ -53,12 +53,18 @@ node-red-log
 Once Node-RED is running, access the flow editor by opening a browser and navigating to:
 
 plaintext
-```http://<your-pi-ip-address>:1880```
+```
+http://<your-pi-ip-address>:1880
+```
+
 If you're working locally on the Raspberry Pi:
+
 plaintext
-```http://localhost:1880```
+```
+http://localhost:1880
+```
 ##Step 5: Start Creating Flows
 Node-RED is now up and running. Start creating flows by dragging nodes and wiring them together.
-Additional Resources
+##Additional Resources
 Node-RED Documentation
 Node-RED Flows Library
