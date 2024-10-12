@@ -16,7 +16,7 @@ Update your system's package list and upgrade existing packages:
 sudo apt update
 sudo apt upgrade
 ```
-##Step 2: Install Node-RED
+## Step 2: Install Node-RED
 
 Use the Node-RED team's installation script to install Node.js and Node-RED:
 
@@ -30,7 +30,7 @@ Install Node-RED
 Optionally install useful tools
 Follow the prompts during installation.
 
-##Step 3: Set Node-RED to Start on Boot
+## Step 3: Set Node-RED to Start on Boot
 To enable Node-RED to start automatically on boot, run:
 
 ```bash
@@ -49,7 +49,7 @@ To check the Node-RED service log:
 Copy code
 node-red-log
 ```
-##Step 4: Access the Node-RED Interface
+## Step 4: Access the Node-RED Interface
 Once Node-RED is running, access the flow editor by opening a browser and navigating to:
 
 plaintext
@@ -63,8 +63,8 @@ plaintext
 ```
 http://localhost:1880
 ```
-##Step 5: Start Creating Flows
+## Step 5: Start Creating Flows
 Node-RED is now up and running. Start creating flows by dragging nodes and wiring them together.
-##Additional Resources
+## Additional Resources
 Node-RED Documentation
 Node-RED Flows Library
